@@ -20,8 +20,8 @@
                for="demo_menu-lower-left">
                <li class="mdl-menu__item">Vendedor</li>
                <li class="mdl-menu__item">Inspector</li>
-               <li disabled class="mdl-menu__item">Administración</li> 
-               <li disabled class="mdl-menu__item">Cobrador</li>  
+               <li class="mdl-menu__item">Administración</li> 
+               <li class="mdl-menu__item">Cobrador</li>  
             </ul>        
          </div>
          <div class="background"></div>

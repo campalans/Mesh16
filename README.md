@@ -21,21 +21,18 @@
 </button>
     </span>
     <span class="mdl-list__item-secondary-content">
-      <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
     </span>
   </li>
   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Porpuesta abierta, esperando ser aprobada por el cliente.</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
       <span>Propuesta aceptada por el cliente, esperando contrato</span>
     </span>
     <span class="mdl-list__item-secondary-content">
-      <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
     </span>
   </li>
 </ul>
@@ -44,34 +41,27 @@
       </div>
    </td>
    <td>
-      <div class="container mdl-shadow--2dp">
-         <div class="bar">
-            <div class="wrapper">     
-               <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect"
-                  for="demo_menu-lower-right">
+       <div class="bar">    
+                <ul class="demo-list-three mdl-list">     
                   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos listos, esperando fecha de inicio</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
                   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos en ejecución</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
                   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos detenidos por no pago</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>     
    		<li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos ejecutados, Preparando anexo 7</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
                </ul>
             </div>
@@ -80,46 +70,35 @@
       </div>
    </td>
    <td>
-      <div class="container mdl-shadow--2dp">
-	     <div class="background"></div>
-         <div class="bar">    
-            <ul class="mdl-menu mdl-menu--top-left mdl-js-menu mdl-js-ripple-effect"
-               for="demo_menu-top-left">
+       <div class="bar">    
+                <ul class="demo-list-three mdl-list">
                <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Propuesta aceptada por el cliente, contrato en proceso de preparación.</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
                <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos firmados por cliente, en proceso de planificación</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
                <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contrato terminado, subiendo Anexo 7 a SEC</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>   
    		<li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Cierre formal de contratos</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>
             </ul>        
          </div>         
       </div>
    </td>
    <td>     
-      <div class="container mdl-shadow--2dp">
-	     <div class="background"></div>
-         <div class="bar">
-            <div class="wrapper">     
-               <ul class="mdl-menu mdl-menu--top-right mdl-js-menu mdl-js-ripple-effect"
-                  for="demo_menu-top-right">
+       <div class="bar">    
+                <ul class="demo-list-three mdl-list">
                   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Nuevo pago a contratos</span>
@@ -128,14 +107,12 @@
 </button>
     </span>
     <span class="mdl-list__item-secondary-content">
-      <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
     </span>
   </li>
                   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
      <span>Contratos con la suma de pagos menor al monto total</span>
     </span>
-    <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>
    </li>     
                </ul>
             </div>

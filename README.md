@@ -15,13 +15,10 @@
                 <ul class="demo-list-three mdl-list">
   <li class="mdl-list__item mdl-list__item--three-line">
     <span class="mdl-list__item-primary-content">
-     <span>Bryan Cranston</span><button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
+     <span>Nueva Propuesta</span>
+     <button class="mdl-button mdl-js-button mdl-button--fab mdl-button--colored">
   <i class="material-icons">add</i>
 </button>
-      <span class="mdl-list__item-text-body">
-        Bryan Cranston played the role of Walter in Breaking Bad. He is also known
-        for playing Hal in Malcom in the Middle.
-      </span>
     </span>
     <span class="mdl-list__item-secondary-content">
       <a class="mdl-list__item-secondary-action" href="#"><i class="material-icons">star</i></a>

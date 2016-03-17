@@ -1,120 +1,46 @@
 <html>
    <head>
       <h1><title>Vendedor</title></h1>
-    
-
-  <link rel="stylesheet" 
-
-href="https://storage.googleapis.com/code.getmdl.io/1.0.
-
-6/material.indigo-pink.min.css">
-      <script 
-
-src="https://storage.googleapis.com/code.getmdl.io/1.0.6
-
-/material.min.js"></script>
-      <link rel="stylesheet" 
-
-href="https://fonts.googleapis.com/icon?family=Material
-
-+Icons">
+      <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-pink.min.css">
+      <script src="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     </head>
   <div id="page">
-		<div 
-
-id="header">
-		<div id="logo">
-	<a 
-
-href="index.html"><ScreenShot 
-
-src="https://drive.google.com/file/d/0B4E-
-
-j9J8vZ6Ja0JUOFZETkFHcmc/view?usp=sharing?raw=true" 
-
+  <div id="header">
+  <div id="logo">
+	<a href="index.html"><ScreenShot src="https://drive.google.com/file/d/0B4E-j9J8vZ6Ja0JUOFZETkFHcmc/view?usp=sharing?raw=true" 
 alt="LOGO"></a>
 	</div>
   <td>
-      <div class=”mdl-layout 
-
-mdl-js-layout”>
+      <div class=”mdl-layout mdl-js-layout”>
     <header class=”mdl-layout__header”>
-   
-
-     <div class=”mdl-layout-icon”></div>
-        <div 
-
-class=”mdl-layout__header-row”>
-            <span 
-
-class=”mdl-
-
-layout__title”><center><h1>Vendedor</h1></center></span>
- 
-
-           <div class="container mdl-shadow--2dp">
-       
-
-  <div class="bar">    
-            <button 
-
-id="demo_menu-lower-left" class="mdl-button mdl-js-
-
-button mdl-button--icon" data-
-
-upgraded=",MaterialButton">
-               <i 
-
-class="material-icons">more_vert</i>
-            
-
-</button>
-            <ul class="mdl-menu mdl-menu--
-
-bottom-left mdl-js-menu mdl-js-ripple-effect"
-            
-
-   for="demo_menu-lower-left">
-               <li 
-
-class="mdl-menu__item">Vendedor</li>
-               <li 
-
-disable class="mdl-menu__item">Inspector</li>
-            
-
-   <li disable class="mdl-
-
-menu__item">Administración</li> 
-               <li 
-
-disable class="mdl-menu__item">Cobrador</li>  
-           
-
- </ul>        
+    <div class=”mdl-layout-icon”></div>
+        <div class=”mdl-layout__header-row”>
+            <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
+            <div class="container mdl-shadow--2dp">
+         <div class="bar">    
+            <button id="demo_menu-lower-left" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
+               <i class="material-icons">more_vert</i>
+            </button>
+            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect"   for="demo_menu-lower-left">
+               <li class="mdl-menu__item">Vendedor</li>
+               <li disable class="mdl-menu__item">Inspector</li>
+               <li disable class="mdl-menu__item">Administración</li> 
+               <li disable class="mdl-menu__item">Cobrador</li>  
+            </ul>        
          </div>
-         <div 
-
-class="background"></div>
+         <div class="background"></div>
       </div>
     </header>
 </div>
- 
-
-  </td>
+   </td>
    <body>
    <table>
-   
-
-<tr><td><h4>Vendedor</h4></td></tr>
+ <tr><td><h4>Vendedor</h4></td></tr>
    <tr>
    <td>
-     
-
-<div class="bar">    
-                <ul class="demo-
-
-list-three mdl-list">
+     <div class="bar">    
+                <ul class="demo-list-three mdl-list">
   
 <li class="mdl-list__item mdl-list__item--three-line">
    
@@ -271,4 +197,3 @@ style="width:24px;height:24px" viewBox="0 0 24 24">
       </main>
 </body>
 </html>
-

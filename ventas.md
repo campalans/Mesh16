@@ -8,8 +8,9 @@
   <div id="page">
   <div id="header">
   <div id="logo">
-	<a href="index.html"><ScreenShot src="https://drive.google.com/file/d/0B4E-j9J8vZ6Ja0JUOFZETkFHcmc/view?usp=sharing?raw=true" 
-alt="LOGO"></a>
+	<span class="android-mobile-title mdl-layout-title">
+  <img class="android-logo-image" src="images/android-logo.png">
+</span>
 	</div>
   <td>
       <div class=”mdl-layout mdl-js-layout”>

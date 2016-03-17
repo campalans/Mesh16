@@ -9,7 +9,7 @@
   <div id="header">
   <div id="logo">
 	<span class="android-mobile-title mdl-layout-title">
-  <img class="android-logo-image" src="g4357.png">
+  <img class="android-logo-image" src="g4357.png" style="width:80px;height:50px">
 </span>
 	</div>
   <td>

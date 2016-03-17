@@ -92,6 +92,5 @@ alt="LOGO"></a>
 		</li>
 </ul>
            </div>
-      </footer>
 </body>
 </html>

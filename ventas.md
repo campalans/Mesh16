@@ -64,8 +64,7 @@ alt="LOGO"></a>
    </tr>
    </table>
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-    <main class="mdl-layout__content">    
-         <footer class="mdl-mini-footer">
+             <footer class="mdl-mini-footer">
             <div class="mdl-mini-footer__left-section">
                <div class="mdl-logo">@Loba&Aalvarado      </div>
                <ul class="mdl-mini-footer__link-list">
@@ -93,7 +92,6 @@ alt="LOGO"></a>
 		</li>
 </ul>
            </div>
-         </footer>
-      </main>
+      </footer>
 </body>
 </html>

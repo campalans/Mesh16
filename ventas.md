@@ -15,10 +15,10 @@ alt="LOGO"></a>
       <div class=”mdl-layout mdl-js-layout”>
     <header class=”mdl-layout__header”>
     <div class=”mdl-layout-icon”></div>
-        <div class=”mdl-layout__header-row”>
+                <div class="bar">   
+                 <div class=”mdl-layout__header-row”>
             <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
             <div class="container mdl-shadow--2dp">
-         <div class="bar">    
             <button id="demo_menu-lower-left" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
                <i class="material-icons">more_vert</i>
             </button>

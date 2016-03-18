@@ -27,7 +27,7 @@
                 <div class="bar">   
                  <div class=”mdl-layout__header-row”>
             <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
-            <div class="nav-wrapper container">
+            <div class="container mdl-shadow--2dp">
             <button id="demo_menu-lower-rigth" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
                <i class="material-icons">more_vert</i>
             </button>

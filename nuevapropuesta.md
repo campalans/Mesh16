@@ -28,7 +28,7 @@
                  <div class=”mdl-layout__header-row”>
             <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
             <div class="nav-wrapper container">
-            <button id="demo_menu-lower-left" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
+            <button id="demo_menu-lower-rigth" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
                <i class="material-icons">more_vert</i>
             </button>
             <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect"   for="demo_menu-lower-left">

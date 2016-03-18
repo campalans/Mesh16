@@ -13,13 +13,21 @@
 </span>
 	</div>
 	<td>
+	 <header>
+  <div class="header-wrapper">
+    <div class="header-title">      <span class="section-title">Components</span>
+      <span class="chapter-title"><span class="title-separator">–</span> Menus</span>
+        </div>
+  </div>
+
+</header>
       <div class=”mdl-layout mdl-js-layout”>
     <header class=”mdl-layout__header”>
     <div class=”mdl-layout-icon”></div>
                 <div class="bar">   
                  <div class=”mdl-layout__header-row”>
             <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
-            <div class="container mdl-shadow--2dp">
+            <div class="nav-wrapper container">
             <button id="demo_menu-lower-left" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
                <i class="material-icons">more_vert</i>
             </button>
@@ -41,8 +49,12 @@
 <p><h5>Cotizaci&oacute;n</h5></p>
 <p>Nombre o Raz&oacute;n Social: <input type="text" ng-model="Nombre o Raz&oacute;n Social"></p>
 <p ng-bind="Nombre o Raz&oacute;n Social"></p>
+<p>Rut: <input type="text" ng-model="RutRaz&oacute;n Social"></p>
+<p ng-bind="RutRaz&oacute;n Social"></p>
 <p>Gestor Inmobiliario o Administrador: <input type="text" ng-model="Gestor Inmobiliario o Administrador"></p>
 <p ng-bind="Gestor Inmobiliario o Administrador"></p>
+<p>Rut: <input type="text" ng-model="RutAdministrador"></p>
+<p ng-bind="RutAdministrador"></p>
 
 </div>
 

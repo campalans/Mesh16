@@ -12,6 +12,29 @@
   <img class="android-logo-image" src="g4357.png" style="width:80px;height:50px">
 </span>
 	</div>
+	<td>
+      <div class=”mdl-layout mdl-js-layout”>
+    <header class=”mdl-layout__header”>
+    <div class=”mdl-layout-icon”></div>
+                <div class="bar">   
+                 <div class=”mdl-layout__header-row”>
+            <span class=”mdl-layout__title”><center><h1>Vendedor</h1></center></span>
+            <div class="container mdl-shadow--2dp">
+            <button id="demo_menu-lower-left" class="mdl-button mdl-js-button mdl-button--icon" data-upgraded=",MaterialButton">
+               <i class="material-icons">more_vert</i>
+            </button>
+            <ul class="mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect"   for="demo_menu-lower-left">
+               <li class="mdl-menu__item">Vendedor</li>
+               <li disable class="mdl-menu__item">Inspector</li>
+               <li disable class="mdl-menu__item">Administración</li> 
+               <li disable class="mdl-menu__item">Cobrador</li>  
+            </ul>        
+         </div>
+         <div class="background"></div>
+      </div>
+    </header>
+</div>
+   </td>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 <body>
 

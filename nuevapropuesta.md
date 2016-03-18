@@ -37,12 +37,12 @@
    </td>
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 <body>
-
 <div ng-app="">
- 
-<p>Input something in the input box:</p>
-<p>Name: <input type="text" ng-model="name"></p>
-<p ng-bind="name"></p>
+<p><h5>Cotizaci&oacute;n</h5></p>
+<p>Nombre o Raz&oacute;n Social: <input type="text" ng-model="Nombre o Raz&oacute;n Social"></p>
+<p ng-bind="Nombre o Raz&oacute;n Social"></p>
+<p>Gestor Inmobiliario o Administrador: <input type="text" ng-model="Gestor Inmobiliario o Administrador"></p>
+<p ng-bind="Gestor Inmobiliario o Administrador"></p>
 
 </div>
 
